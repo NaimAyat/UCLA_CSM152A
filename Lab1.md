@@ -35,4 +35,4 @@
   2. Pure combinational logic in "always" block: use blocking
   3. Do not mix blocking/nonblocking in same "always" block
   4. Both sequential and combinational logic in same "always" block: use nonblocking
-  Recommendation: in complex sequential circuit, use two lways blocks: one for combinational circuit, one for state update
+  * Recommendation: in complex sequential circuit, use two always blocks: one for combinational circuit, one for state update
