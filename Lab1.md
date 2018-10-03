@@ -10,7 +10,7 @@
 ### Data Values
 * Values: 1, 0
 * Radicies: d (decimal), h (hex), o (octal), b (binary)
-* Format: `<size>'<radix><value>"
+* Format: `<size>'<radix><value>`
    ```
    123        // default decimal radix, unspecified width
    'd123      // decimal radix
