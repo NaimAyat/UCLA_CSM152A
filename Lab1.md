@@ -18,7 +18,7 @@
    'b111_1011 // binary radix, underscores allowed for readability
    ```
 ### Operators
-* Bitwise: ~a (not), a&b (and), a|b (or), a^b (xor), a~^b (xnor) 
+* Bitwise: ~a (not), a&b (and), a|b (or), a^b (xor), a\~^b (xnor) 
   * Compares each bit one-by-one
 * Logical: !a, a&&b, a||b, ==, !=, ===, !==
   * Compares entities as a whole
